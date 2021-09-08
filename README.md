@@ -1,4 +1,4 @@
-# _Pedestrian Detection_
+# _An Efficient Hybrid Residual Network for Pedestrian Detection and Segmentation_
 
 ## _Authors_
 1) _Rahul Sawhney_
