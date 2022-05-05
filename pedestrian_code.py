@@ -1,7 +1,5 @@
 from __future__ import annotations
 
-__authors__: list[str] = ['Rahul Sawhney']
-
 __doc__: str = r'''
     >>> Paper Topic: An Efficient Hybrid Resisdual Network for Pedestrian Detection and Segmentation
 
